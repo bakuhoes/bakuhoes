@@ -23,18 +23,3 @@
 </div>
 
 ###
-
-<div data-importer="techs" align="left">
-</div>
-
-###
-<div data-importer="image" align="center">
-  <img data-importer="image" height="600" src="https://i.pinimg.com/1200x/8d/cb/32/8dcb32c7dd2c73bd6bc4bcbc32677a5e.jpg"  />
-</div>
-
-###
-
-<div data-importer="techs" align="left">
-</div>
-
-###
