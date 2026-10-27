@@ -19,6 +19,16 @@
 ###
 
 <div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.pinimg.com/originals/8a/75/38/8a7538da48a9715bc1b8f4f8907c97a2.gif"  />
+</div>
+
+###
+
+<div data-importer="techs" align="left">
+</div>
+
+###
+<div data-importer="image" align="center">
   <img data-importer="image" height="600" src="https://i.pinimg.com/1200x/8d/cb/32/8dcb32c7dd2c73bd6bc4bcbc32677a5e.jpg"  />
 </div>
 
