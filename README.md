@@ -36,8 +36,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.pinimg.com/originals/8a/75/38/8a7538da48a9715bc1b8f4f8907c97a2.gif"  />
-</div>
+  
 
 ###
 
