@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">𝕊𝕆ℂ𝕀𝔸𝕃 𝔹𝔸𝕋𝕋𝔼ℝ𝕐: I will randomly loose all of my social battery and go silent sometimes. I will tell you this but if you keep engaging with me I'll probably leave the game, run to somewhere else or hide you for a bit!<br><br>𝔸ℕ𝔾𝔼ℝ 𝕀𝕊𝕊𝕌𝔼𝕊: I also have anger issues so some small things can make me very angry so if I get randomly angry at you that's why<br><br>𝔽𝕀ℂ𝕋𝕀𝕆ℕ 𝕂𝕀ℕ: I am also a Bakugo / Ochaco fiction kin! doubles respectfully DNI! I would love to see more MHA fiction kins in game so if u arent a B. / O. one!! (im ussually very ok with Ochako fit kins so yall can int just dont rub it in my face yk?) Yes I am a multi shipper DEKUBAKU, OCHABAKU, KIRIBAKU, DEKUOCHA ECT</p>
+<p data-importer="text" align="left">𝕊𝕆ℂ𝕀𝔸𝕃 𝔹𝔸𝕋𝕋𝔼ℝ𝕐: I will randomly loose all of my social battery and go silent sometimes. I will tell you this but if you keep engaging with me I'll probably leave the game, run to somewhere else or hide you for a bit!<br><br>𝔸ℕ𝔾𝔼ℝ 𝕀𝕊𝕊𝕌𝔼𝕊: I also have anger issues so some small things can make me very angry so if I get randomly angry at you that's why<br><br>𝔽𝕀ℂ𝕋𝕀𝕆ℕ 𝕂𝕀ℕ: I am also a Bakugo / Ochaco fiction kin! doubles respectfully DNI! I would love to see more MHA fiction kins in game so if u arent a B. / O. one!! Yes I am a multi shipper DEKUBAKU, OCHABAKU, KIRIBAKU, ECT</p>
 
 ###
 
@@ -23,24 +23,8 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="188" src="https://i.pinimg.com/1200x/e9/d3/17/e9d317cf42244343a0e912fb60411b54.jpg"  />
-</div>
-
-###
-
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=bakuhoes.bakuhoes&left_color=deeppink&right_color=lightpink&left_text=Love%20Yall!%20"  />
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  
-
-###
-
-<div data-importer="techs" align="left">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=bakuhoes.bakuhoes&left_color=darkolivegreen&right_color=aquamarine&left_text=Love%20Yall!%20"  />
 </div>
 
 ###
